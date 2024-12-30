@@ -1,4 +1,4 @@
-"# Quiz-App-with-Timer" 
+# Quiz-App-with-Timer 
 
 - First, create a Web page basic structure using HTML tags like buttons and heading for landing page, a button to Start Quiz. Also, use divs and span for outer body structure along with relevant Class names and IDs.
 - 
